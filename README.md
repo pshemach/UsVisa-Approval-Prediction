@@ -1,1 +1,1 @@
-# UsVisa-Approval-Prediction
+# UsVisa-Approval-Predict
